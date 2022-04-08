@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moviehub.git/static/css/main.452d868a.css",
-    "main.js": "/moviehub.git/static/js/main.5e28a84c.js",
-    "static/media/placeholder.jpg": "/moviehub.git/static/media/placeholder.c92c6c21698a1269190b.jpg",
-    "index.html": "/moviehub.git/index.html",
-    "static/media/search.svg": "/moviehub.git/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
-    "main.452d868a.css.map": "/moviehub.git/static/css/main.452d868a.css.map",
-    "main.5e28a84c.js.map": "/moviehub.git/static/js/main.5e28a84c.js.map"
+    "main.css": "/my-app/static/css/main.452d868a.css",
+    "main.js": "/my-app/static/js/main.8d8e9781.js",
+    "static/media/placeholder.jpg": "/my-app/static/media/placeholder.c92c6c21698a1269190b.jpg",
+    "index.html": "/my-app/index.html",
+    "static/media/search.svg": "/my-app/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.452d868a.css.map": "/my-app/static/css/main.452d868a.css.map",
+    "main.8d8e9781.js.map": "/my-app/static/js/main.8d8e9781.js.map"
   },
   "entrypoints": [
     "static/css/main.452d868a.css",
-    "static/js/main.5e28a84c.js"
+    "static/js/main.8d8e9781.js"
   ]
 }
